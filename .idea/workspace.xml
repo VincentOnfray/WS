@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="9077283f-a995-4756-bbaa-df3b10ddb794" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS.Contract/src/main/java/IModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/WS.Contract/src/main/java/IModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS.Contract/target/classes/IModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/WS.Contract/target/classes/IModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS.controller/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WS.controller/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS.model/src/main/java/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/WS.model/src/main/java/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS.model/target/classes/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/WS.model/target/classes/Model.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WS.view/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WS.view/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.controller/src/main/java/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/WS.controller/src/main/java/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.controller/target/classes/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/WS.controller/target/classes/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WS.main/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.main/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/WS.main/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.main/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/WS.main/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.model/src/main/java/DAOHelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/WS.model/src/main/java/DAOHelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WS.model/target/classes/DAOHelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/WS.model/target/classes/DAOHelloWorld.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -69,17 +70,17 @@
       <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WS.controller/src/main/java/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="221">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DAOHelloWorld.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DAOHelloWorld.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WS.model/src/main/java/DAOHelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="232">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
               <folding>
                 <element signature="e#253#254#0" expanded="true" />
                 <element signature="e#287#288#0" expanded="true" />
@@ -94,6 +95,44 @@
                 <element signature="e#669#670#0" expanded="true" />
                 <element signature="e#702#703#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.class" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WS.main/target/classes/Main.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#402#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WS.main/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WS.main/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -117,12 +156,14 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/WS.Contract/src/main/java/Iview.java" />
-        <option value="$PROJECT_DIR$/WS.model/src/main/java/DAOHelloWorld.java" />
         <option value="$PROJECT_DIR$/WS.view/src/main/java/view.java" />
         <option value="$PROJECT_DIR$/WS.view/src/main/java/View.java" />
         <option value="$PROJECT_DIR$/WS.model/src/main/java/Model.java" />
         <option value="$PROJECT_DIR$/WS.Contract/src/main/java/IModel.java" />
+        <option value="$PROJECT_DIR$/WS.main/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/WS.controller/src/main/java/Controller.java" />
+        <option value="$PROJECT_DIR$/WS.model/src/main/java/DAOHelloWorld.java" />
+        <option value="$PROJECT_DIR$/WS.main/pom.xml" />
       </list>
     </option>
   </component>
@@ -164,106 +205,27 @@
             <path>
               <item name="WS" type="b2602c69:ProjectViewProjectNode" />
               <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="WS.main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WS" type="b2602c69:ProjectViewProjectNode" />
               <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="WS.main" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WS" type="b2602c69:ProjectViewProjectNode" />
               <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="WS.main" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WS" type="b2602c69:ProjectViewProjectNode" />
               <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="exia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.Contract" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.Contract" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.Contract" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.Contract" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.controller" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.controller" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.controller" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WS" type="462c0819:PsiDirectoryNode" />
-              <item name="WS.model" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="WS.main" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -390,10 +352,12 @@
     <history-entry file="AppTest - 2018.04.27 at 11h 48m 39s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTest - 2018.04.27 at 11h 59m 31s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -404,8 +368,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" visible="true" weight="0.0026075619" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35983264" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27336124" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32914925" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21903521" />
@@ -426,6 +390,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/fr/exia/App.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -444,16 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WS.main/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WS.Contract/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -465,13 +424,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WS.view/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WS.Contract/src/main/java/Iview.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WS.Contract/src/main/java/IModel.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -491,10 +443,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WS.controller/src/main/java/Controller.java">
+    <entry file="file://$PROJECT_DIR$/WS.Contract/src/main/java/Iview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -505,10 +457,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WS.main/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS.controller/src/main/java/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WS.model/src/main/java/DAOHelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="232">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
           <folding>
             <element signature="e#253#254#0" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
@@ -522,6 +488,29 @@
             <element signature="e#623#624#0" expanded="true" />
             <element signature="e#669#670#0" expanded="true" />
             <element signature="e#702#703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS.main/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WS.main/target/classes/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#402#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -578,7 +567,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>WScontroller</last-edited>
+          <last-edited>WSmain</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

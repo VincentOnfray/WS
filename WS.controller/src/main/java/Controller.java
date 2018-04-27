@@ -7,9 +7,10 @@ public class Controller {
     public Controller(Iview view, IModel model){
         this.view = view;
         this.model = model;
+
     }
 
     public void run() throws IOException {
-        this.view.displayMessage(this.model.getHelloWorld());
+                this.view.displayMessage(this.model.getHelloWorld());
     }
 }

@@ -40,7 +40,6 @@ public class DAOHelloWorld {
         FileReader fr = new FileReader(FileName);
         BufferedReader br = new BufferedReader(fr);
         this.Message = br.readLine();
-        System.out.println(this.getMessage());
         return this.getMessage();
 
     }
